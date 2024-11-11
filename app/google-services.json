@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283944493252",
+    "project_id": "cina-crud",
+    "storage_bucket": "cina-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283944493252:android:9fbae9a93a111d0389a991",
+        "android_client_info": {
+          "package_name": "com.example.projectcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4nI_nR_B_18MF3xrKjSG2cWXuCp44e_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
